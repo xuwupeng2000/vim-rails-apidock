@@ -9,7 +9,7 @@ SUMMARY                                         *vim-railsdock*
 
 Easily open the apidock.com page for method tips from Vim.
 
-                                                *open-rubygems-:Gem*
+                                                *railsdock-:Api*
 :Gem [{gem-name}]     Use :Api rails to open up rails on apidock.com.
                       If the cursor is located on a gem name you can
                       use :Api to open up the apidock page for that method.

@@ -18,7 +18,9 @@ Otherwise just copy the contents of vim-apidock's plugin folder to `~/.vim/plugi
 
 ## Requirements
 
-Mac OS X - currently relies on the `open` shell command.
+Depends on [vim-mis](https://github.com/xolox/vim-misc) and [vim-shell](https://github.com/xolox/vim-shell).
+BTW: try them they are very useful.
+
 
 ## Contributing
 
