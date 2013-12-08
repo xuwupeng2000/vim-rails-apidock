@@ -6,6 +6,9 @@ Inspried by open-rubygems.vim. - Thank you Arvid Andersson.
 ## Usage
 
 Use `:Api` to open up [apidock](http://apidock.com/). If the cursor is located on a method name you can use `:Api` to open up the apidock page for that method.
+![usage][usage]
+
+[usage]: https://dl-web.dropbox.com/get/Screenshots/Screenshot%202013-12-09%2011.04.39.png?w=AAAQsJDUXCPzG6Y9xQyCzEkAOujN3aRLLO2iOVEneufwDA 'Usage'
 
 ## Installation
 
