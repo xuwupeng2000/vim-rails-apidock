@@ -15,6 +15,10 @@ Use `:Api` to open up [apidock](http://apidock.com/). If the cursor is located o
 Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
 
     cd ~/.vim/bundle
+    # Install dependencies
+    git clone https://github.com/xolox/vim-shell.git
+    git clone https://github.com/xolox/vim-misc.git
+    # Install railsdock.vim
     git clone https://github.com/xuwupeng2000/vim-rails-apidock.git    
 
 Otherwise just copy the contents of vim-apidock's plugin folder to `~/.vim/plugins/`.
