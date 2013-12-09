@@ -8,7 +8,7 @@ set cpo&vim
 command! -nargs=* Api call OpenApiDock(<f-args>)
 
 function! OpenApiDock(...)
-  let method_name = a:0 ? a:1 : expand("<cWORD>")
+  let method_name = a:0 ? a:1 : expand("<cword>")
   exec 'Open'.' '.'http://apidock.com/rails/search/quick?query='.method_name
 endfunction
 
