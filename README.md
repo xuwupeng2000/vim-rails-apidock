@@ -31,7 +31,7 @@ BTW: try them they are very useful.
 
 ## Contributing
 
-You are very welcome to contibute. Do a pull request or issue on [github](https://github.com/arvida/vim-open-rubygems).
+You are very welcome to contibute. Do a pull request or issue on [github](https://github.com/xuwupeng2000/vim-rails-apidock.git).
 
 ## License
 
