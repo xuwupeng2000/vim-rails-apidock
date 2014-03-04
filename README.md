@@ -21,7 +21,8 @@ Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
     # Install railsdock.vim
     git clone https://github.com/xuwupeng2000/vim-rails-apidock.git    
     
-Using [Vundle](https://github.com/gmarik/Vundle.vim)
+Using [Vundle](https://github.com/gmarik/Vundle.vim):
+
 Bundle 'xuwupeng2000/vim-rails-apidock'
 
 Otherwise just copy the contents of vim-apidock's plugin folder to `~/.vim/plugins/`.
