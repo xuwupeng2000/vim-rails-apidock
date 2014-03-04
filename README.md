@@ -23,7 +23,7 @@ Using [pathogen.vim](https://github.com/tpope/vim-pathogen):
     
 Using [Vundle](https://github.com/gmarik/Vundle.vim):
 
-Bundle 'xuwupeng2000/vim-rails-apidock'
+    Bundle 'xuwupeng2000/vim-rails-apidock'
 
 Otherwise just copy the contents of vim-apidock's plugin folder to `~/.vim/plugins/`.
 
